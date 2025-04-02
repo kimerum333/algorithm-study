@@ -1,4 +1,4 @@
-package datastructure.Queue;
+package datastructure.queue;
 
 public class MyGenericQueue<T> {
     private int front,rear,size,capacity;
